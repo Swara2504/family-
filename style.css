@@ -1,0 +1,29 @@
+body
+{
+    background: rgb(202, 176, 243);
+    color: rgb(167, 255, 201);
+    font-size: 25px;
+    font-family: 'Fascinate', cursive;
+}
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+#objecT
+{
+    color: rgb(255, 204, 146);
+}
+#accuracY
+{
+    color: rgb(239, 255, 146);
+}
+#camera
+{
+    width: 350px;
+    height: 300px;
+}
+.name_of_family_members,#result_member_name,#result_member_accuracy
+{
+   color: rgb(255, 192, 74);
+}
